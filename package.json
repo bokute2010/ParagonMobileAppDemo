@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "amazon-ivs-web-broadcast": "^1.10.0",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-webrtc": "^118.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
